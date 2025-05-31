@@ -54,7 +54,7 @@ python meanpro_metric.py \
 
 For `LLMs`, the code supports any LLMs on Huggingface (tested with `GPT2-XL`, `EleutherAI/gpt-j-6b`, `meta-llama/Llama-3.1-8B`, `meta-llama/Llama-3.1-70B` and `DeepSeek-R1-8B`. For wordembedding `glove` [glove 300d 840b](https://nlp.stanford.edu/projects/glove/), `fasttext`[crawl-300d-2M-subword.vec](https://fasttext.cc/docs/en/english-vectors.html), `word2vec` [
 word2vec-GoogleNews-vectors](https://github.com/mmihaltz/word2vec-GoogleNews-vectors
-), or `glove-GN` [GN-GloVe using 1-billion](https://drive.google.com/file/d/1g1QPqbIlQorwlfGShtPbZVk6mfwodQgE/view) and `glove_dd` [vector_ddglove_gender](https://drive.google.com/drive/folders/1yqpBcqENLkPrzL1wfkw08GkO6VQ8m2tf)
+), or `glove-GN` [GN-GloVe using 1-billion](https://drive.google.com/file/d/1g1QPqbIlQorwlfGShtPbZVk6mfwodQgE/view), `glove_dd` [vector_ddglove_gender](https://drive.google.com/drive/folders/1yqpBcqENLkPrzL1wfkw08GkO6VQ8m2tf) and our Race-Neutral `glove-RN` [1b-vectors300-RN](https://www.dropbox.com/scl/fi/2f45d6zpiqxdcdyc8ms3w/1b-vectors300-RN.txt?rlkey=a1opowg3g7585atpls01x7lk8&dl=0)
 
 
 
