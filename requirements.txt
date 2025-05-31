@@ -1,0 +1,4 @@
+gensim
+tqdm
+numpy
+transformers==4.35.2

@@ -1,0 +1,3 @@
+Human Bias Match Ratio: 0.64
+M Ratio: 0.89
+F Ratio: 0.11
