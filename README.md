@@ -1,6 +1,5 @@
 # GenderLex 
-
-[![huggingface](https://img.shields.io/badge/🤗-GenderLex-yellow)](https://huggingface.co/datasets/AhmedSSabir/GenderLex)
+[![arXiv](https://img.shields.io/badge/arXiv-2507.02679-b31b1b.svg)](https://arxiv.org/pdf/2507.02679.pdf) [![huggingface](https://img.shields.io/badge/🤗-GenderLex-yellow)](https://huggingface.co/datasets/AhmedSSabir/GenderLex)
 
 
 This is the GitHub repository for [Exploring Gender Bias Beyond Occupational Titles](https://arxiv.org/pdf/2507.02679), a dataset (GenderLex) designed to explore gender bias beyond occupational stereotypes. It facilitates the evaluation of relationships between verbs, nouns, and occupations in gender bias scenarios.
