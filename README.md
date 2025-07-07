@@ -1,6 +1,6 @@
 # GenderLex 
 
-This is the GitHub repository for [Exploring Gender Bias Beyond Occupational Titles](), a dataset (GenderLex) designed to explore gender bias beyond occupational stereotypes. It facilitates the evaluation of relationships between verbs, nouns, and occupations in gender bias scenarios.
+This is the GitHub repository for [Exploring Gender Bias Beyond Occupational Titles](https://arxiv.org/pdf/2507.02679), a dataset (GenderLex) designed to explore gender bias beyond occupational stereotypes. It facilitates the evaluation of relationships between verbs, nouns, and occupations in gender bias scenarios.
 
 The GenderLex dataset Includes:
 
