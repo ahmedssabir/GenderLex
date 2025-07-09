@@ -32,7 +32,7 @@ Use Python 3 (we use Python 3.10.12) and install the required packages.
 pip install -r requirements.txt
 ```
 
-The code for measuring biases in LLMs is available at [metric.py](). You can run the code using the following command:
+The code for measuring biases in LLMs is available at [metric.py](https://github.com/ahmedssabir/GenderLex/tree/main/code). You can run the code using the following command:
 
 ```
 python clozegender_metric.py \
