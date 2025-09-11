@@ -80,9 +80,25 @@ And the following additional columns are computed by the script:
 
 
 
+
+
+
+## Citation
+
+The details of this repo are described in the following paper. If you find this repo useful, please kindly cite it:
+
+```bibtex
+@article{sabir2025exploring,
+  title={Exploring Gender Bias Beyond Occupational Titles},
+  author={Sabir, Ahmed and Sharma, Rajesh},
+  journal={arXiv preprint arXiv:2507.02679},
+  year={2025}
+}
+```
+
+
 # Acknowledgements
 
 This work has received funding from the EU H2020 program under the SoBigData++ project (grant agreement No. 871042), by the CHIST-ERA grant No. CHIST-ERA-19-XAI-010, (ETAg grant No. SLTAT21096), and partially funded by HAMISON project.
-
 
 
