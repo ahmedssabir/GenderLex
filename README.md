@@ -20,7 +20,7 @@ The input dataset is a CSV file containing gendered sentence pairs and the targe
 - `sent_w`: A sentence with female gender 
 - `context`: The word that helps to measure bias relation with the pronoun (verb, noun, and occupation)
 - `HB`: A human bias label (`M` or `W`) indicating which version is stereotypically expected
-
+-->
 
 ## Quantifying Biases in LLMs with External Bias Context 
 
@@ -52,7 +52,7 @@ python meanpro_metric.py \
   --emd fasttext --emd_path crawl-300d-2M-subword.vec \
   --model_name gpt2-xl
 ```
-
+<!--
 
 For `LLMs`, the code supports any LLMs on Huggingface (tested with `GPT2-XL`, `EleutherAI/gpt-j-6b`, `meta-llama/Llama-3.1-8B`, `meta-llama/Llama-3.1-70B` and `DeepSeek-R1-8B`. For wordembedding `glove` [glove 300d 840b](https://nlp.stanford.edu/projects/glove/), `fasttext`[crawl-300d-2M-subword.vec](https://fasttext.cc/docs/en/english-vectors.html), `word2vec` [
 word2vec-GoogleNews-vectors](https://github.com/mmihaltz/word2vec-GoogleNews-vectors
