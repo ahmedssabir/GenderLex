@@ -10,7 +10,7 @@ The GenderLex dataset Includes:
 - `Gender-Neutral with Entity *Someone*`: Designed to explore gender bias without including the original occupational bias, using the truly gender-neutral entity "someone.",  focusing on both verbs and nouns.
 - `Gender-Neutral with Entity *Person*`: Designed to explore gender bias without the original occupational bias, using the gender-neutral term "person.",  focusing on both verbs and nouns.
 
-
+<!--
 
 ## The Dataset
 
@@ -79,7 +79,7 @@ And the following additional columns are computed by the script:
 
 
 
-
+-->
 
 
 
